@@ -1,7 +1,7 @@
-# PowerTools Homebrew Tap
+# Install PowerTools
 
 Download and install the `pt` cli:
 
 ```bash
-$ brew install powertoolsdev/homebrew-tap/pt
+$ brew install powertoolsdev/install/pt
 ```
