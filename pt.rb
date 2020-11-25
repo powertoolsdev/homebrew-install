@@ -1,7 +1,7 @@
 class Pt < Formula
   desc "Build, deploy and operate serverless,static and container apps with a single command."
   homepage "https://www.powertools.dev"
-  version "0.0.2"
+  version "0.0.3"
   bottle :unneeded
 
   if OS.mac?
