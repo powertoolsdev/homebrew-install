@@ -1,12 +1,12 @@
 class Pt < Formula
   desc "Build, deploy and operate serverless,static and container apps with a single command."
   homepage "https://www.powertools.dev"
-  version "0.0.8"
+  version "0.0.9"
   bottle :unneeded
 
   if OS.mac?
-    url "https://download.powertools.dev/download/46ED852D-EC8F-4877-80E8-0248B7383912?version=52dce9e0781b937ced03d8d12a71311788bfde61"
-    sha256 "c13677326cbd3fc54b7808425e4906e23be23017b2d129f3c8d4d5a63e59b469"
+    url "https://download.powertools.dev/download/46ED852D-EC8F-4877-80E8-0248B7383912?version=b7ca00f2b4808efa6e736800a18e53fe706bc1c0"
+    sha256 "b67ce62d16546901c58de03475c12772b519cf31c1c975b10605e5bd6d71f315"
   end
 
   def install
