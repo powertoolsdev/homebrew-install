@@ -10,7 +10,7 @@ class Pt < Formula
   version "#{PT_VERSION}"
 
   if OS.mac?
-    url "https://download.powertools.dev/download/46ED852D-EC8F-4877-80E8-0248B7383912?version=${PT_GITREF}"
+    url "https://download.powertools.dev/download/46ED852D-EC8F-4877-80E8-0248B7383912?version=#{PT_GITREF}"
     sha256 "#{PT_SHA256}"
   end
 
