@@ -1,4 +1,4 @@
-PT_VERSION = '0.0.45'
+PT_VERSION = '0.0.46'
 PT_GITREF = '124bc'
 PT_SHA256 = 'cb5b1abdd5bacf9a87abb95a13f1187398dcaa0464cd01ebc3975f7aac90fc4e'
 
